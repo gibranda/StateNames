@@ -1,0 +1,415 @@
+[
+  {
+    "state": "Alabama",
+    "postal": "AL",
+    "AP": "Ala.",
+    "old_postal": "Ala.",
+    "status": "State"
+  },
+  {
+    "state": "Alaska",
+    "postal": "AK",
+    "AP": "Alaska",
+    "old_postal": "Alaska",
+    "status": "State"
+  },
+  {
+    "state": "American Samoa",
+    "postal": "AS",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Insular area (Territory)"
+  },
+  {
+    "state": "Arizona",
+    "postal": "AZ",
+    "AP": "Ariz.",
+    "old_postal": "Ariz.",
+    "status": "State"
+  },
+  {
+    "state": "Arkansas",
+    "postal": "AR",
+    "AP": "Ark.",
+    "old_postal": "Ark.",
+    "status": "State"
+  },
+  {
+    "state": "California",
+    "postal": "CA",
+    "AP": "Calif.",
+    "old_postal": "Calif.",
+    "status": "State"
+  },
+  {
+    "state": "Colorado",
+    "postal": "CO",
+    "AP": "Colo.",
+    "old_postal": "Colo.",
+    "status": "State"
+  },
+  {
+    "state": "Connecticut",
+    "postal": "CT",
+    "AP": "Conn.",
+    "old_postal": "Conn.",
+    "status": "State"
+  },
+  {
+    "state": "Delaware",
+    "postal": "DE",
+    "AP": "Del.",
+    "old_postal": "Del.",
+    "status": "State"
+  },
+  {
+    "state": "District of Columbia",
+    "postal": "DC",
+    "AP": "D.C.",
+    "old_postal": "D.C.",
+    "status": "Federal district"
+  },
+  {
+    "state": "Federated States of Micronesia",
+    "postal": "FM",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Freely associated state"
+  },
+  {
+    "state": "Florida",
+    "postal": "FL",
+    "AP": "Fla.",
+    "old_postal": "Fla.",
+    "status": "State"
+  },
+  {
+    "state": "Georgia",
+    "postal": "GA",
+    "AP": "Ga.",
+    "old_postal": "Ga.",
+    "status": "State"
+  },
+  {
+    "state": "Guam",
+    "postal": "GU",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Insular area (Territory)"
+  },
+  {
+    "state": "Hawaii",
+    "postal": "HI",
+    "AP": "Hawaii",
+    "old_postal": "Hawaii",
+    "status": "State"
+  },
+  {
+    "state": "Idaho",
+    "postal": "ID",
+    "AP": "Idaho",
+    "old_postal": "Idaho",
+    "status": "State"
+  },
+  {
+    "state": "Illinois",
+    "postal": "IL",
+    "AP": "Ill.",
+    "old_postal": "Ill.",
+    "status": "State"
+  },
+  {
+    "state": "Indiana",
+    "postal": "IN",
+    "AP": "Ind.",
+    "old_postal": "Ind.",
+    "status": "State"
+  },
+  {
+    "state": "Iowa",
+    "postal": "IA",
+    "AP": "Iowa",
+    "old_postal": "Iowa",
+    "status": "State"
+  },
+  {
+    "state": "Kansas",
+    "postal": "KS",
+    "AP": "Kan.",
+    "old_postal": "Kans.",
+    "status": "State"
+  },
+  {
+    "state": "Kentucky",
+    "postal": "KY",
+    "AP": "Ky.",
+    "old_postal": "Ky.",
+    "status": "State (Commonwealth)"
+  },
+  {
+    "state": "Louisiana",
+    "postal": "LA",
+    "AP": "La.",
+    "old_postal": "La.",
+    "status": "State"
+  },
+  {
+    "state": "Maine",
+    "postal": "ME",
+    "AP": "Maine",
+    "old_postal": "Maine",
+    "status": "State"
+  },
+  {
+    "state": "Marshall Islands",
+    "postal": "MH",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Freely associated state"
+  },
+  {
+    "state": "Maryland",
+    "postal": "MD",
+    "AP": "Md.",
+    "old_postal": "Md.",
+    "status": "State"
+  },
+  {
+    "state": "Massachusetts",
+    "postal": "MA",
+    "AP": "Mass.",
+    "old_postal": "Mass.",
+    "status": "State (Commonwealth)"
+  },
+  {
+    "state": "Michigan",
+    "postal": "MI",
+    "AP": "Mich.",
+    "old_postal": "Mich.",
+    "status": "State"
+  },
+  {
+    "state": "Minnesota",
+    "postal": "MN",
+    "AP": "Minn.",
+    "old_postal": "Minn.",
+    "status": "State"
+  },
+  {
+    "state": "Mississippi",
+    "postal": "MS",
+    "AP": "Miss.",
+    "old_postal": "Miss.",
+    "status": "State"
+  },
+  {
+    "state": "Missouri",
+    "postal": "MO",
+    "AP": "Mo.",
+    "old_postal": "Mo.",
+    "status": "State"
+  },
+  {
+    "state": "Montana",
+    "postal": "MT",
+    "AP": "Mont.",
+    "old_postal": "Mont.",
+    "status": "State"
+  },
+  {
+    "state": "Nebraska",
+    "postal": "NE",
+    "AP": "Neb.",
+    "old_postal": "Nebr.",
+    "status": "State"
+  },
+  {
+    "state": "Nevada",
+    "postal": "NV",
+    "AP": "Nev.",
+    "old_postal": "Nev.",
+    "status": "State"
+  },
+  {
+    "state": "New Hampshire",
+    "postal": "NH",
+    "AP": "N.H.",
+    "old_postal": "N.H.",
+    "status": "State"
+  },
+  {
+    "state": "New Jersey",
+    "postal": "NJ",
+    "AP": "N.J.",
+    "old_postal": "N.J.",
+    "status": "State"
+  },
+  {
+    "state": "New Mexico",
+    "postal": "NM",
+    "AP": "N.M.",
+    "old_postal": "N. Mex.",
+    "status": "State"
+  },
+  {
+    "state": "New York",
+    "postal": "NY",
+    "AP": "N.Y.",
+    "old_postal": "N.Y.",
+    "status": "State"
+  },
+  {
+    "state": "North Carolina",
+    "postal": "NC",
+    "AP": "N.C.",
+    "old_postal": "N.C.",
+    "status": "State"
+  },
+  {
+    "state": "North Dakota",
+    "postal": "ND",
+    "AP": "N.D.",
+    "old_postal": "N. Dak.",
+    "status": "State"
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "postal": "MP",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Insular area (Commonwealth)"
+  },
+  {
+    "state": "Ohio",
+    "postal": "OH",
+    "AP": "Ohio",
+    "old_postal": "Ohio",
+    "status": "State"
+  },
+  {
+    "state": "Oklahoma",
+    "postal": "OK",
+    "AP": "Okla.",
+    "old_postal": "Okla.",
+    "status": "State"
+  },
+  {
+    "state": "Oregon",
+    "postal": "OR",
+    "AP": "Ore.",
+    "old_postal": "Oreg.",
+    "status": "State"
+  },
+  {
+    "state": "Palau",
+    "postal": "PW",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Freely associated state"
+  },
+  {
+    "state": "Pennsylvania",
+    "postal": "PA",
+    "AP": "Pa.",
+    "old_postal": "Pa.",
+    "status": "State (Commonwealth)"
+  },
+  {
+    "state": "Puerto Rico",
+    "postal": "PR",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Insular area (Commonwealth)"
+  },
+  {
+    "state": "Rhode Island",
+    "postal": "RI",
+    "AP": "R.I.",
+    "old_postal": "R.I.",
+    "status": "State"
+  },
+  {
+    "state": "South Carolina",
+    "postal": "SC",
+    "AP": "S.C.",
+    "old_postal": "S.C.",
+    "status": "State"
+  },
+  {
+    "state": "South Dakota",
+    "postal": "SD",
+    "AP": "S.D.",
+    "old_postal": "S. Dak.",
+    "status": "State"
+  },
+  {
+    "state": "Tennessee",
+    "postal": "TN",
+    "AP": "Tenn.",
+    "old_postal": "Tenn.",
+    "status": "State"
+  },
+  {
+    "state": "Texas",
+    "postal": "TX",
+    "AP": "Texas",
+    "old_postal": "Tex.",
+    "status": "State"
+  },
+  {
+    "state": "Utah",
+    "postal": "UT",
+    "AP": "Utah",
+    "old_postal": "Utah",
+    "status": "State"
+  },
+  {
+    "state": "Vermont",
+    "postal": "VT",
+    "AP": "Vt.",
+    "old_postal": "Vt.",
+    "status": "State"
+  },
+  {
+    "state": "Virgin Islands",
+    "postal": "VI",
+    "AP": 0,
+    "old_postal": 0,
+    "status": "Insular area (Territory)"
+  },
+  {
+    "state": "Virginia",
+    "postal": "VA",
+    "AP": "Va.",
+    "old_postal": "Va.",
+    "status": "State (Commonwealth)"
+  },
+  {
+    "state": "Washington",
+    "postal": "WA",
+    "AP": "Wash.",
+    "old_postal": "Wash.",
+    "status": "State"
+  },
+  {
+    "state": "West Virginia",
+    "postal": "WV",
+    "AP": "W.Va.",
+    "old_postal": "W. Va.",
+    "status": "State"
+  },
+  {
+    "state": "Wisconsin",
+    "postal": "WI",
+    "AP": "Wis.",
+    "old_postal": "Wis.",
+    "status": "State"
+  },
+  {
+    "state": "Wyoming",
+    "postal": "WY",
+    "AP": "Wyo.",
+    "old_postal": "Wyo.",
+    "status": "State"
+  }
+]
