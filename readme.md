@@ -44,7 +44,7 @@ so it's not elegant at all. The's an unsupported parameter 'f' that was
 originally added before deciding to handle multiple states at once.
 
 q.php is probably where I'll rewrite this better when I have more than 10 
-minutes.
+minutes. index.php will probably remain the quicky.
 
 *DATA SOURCE*
 
