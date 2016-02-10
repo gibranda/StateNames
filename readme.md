@@ -20,22 +20,22 @@ Input:
 
 Output:
 
-{
-    "Connecticut": {
-        "state": "Connecticut",
-        "postal": "CT",
-        "AP": "Conn.",
-        "old_postal": "Conn.",
-        "status": "State"
-    },
-    "Ariz": {
-        "state": "Arizona",
-        "postal": "AZ",
-        "AP": "Ariz.",
-        "old_postal": "Ariz.",
-        "status": "State"
+    {
+        "Connecticut": {
+            "state": "Connecticut",
+            "postal": "CT",
+            "AP": "Conn.",
+            "old_postal": "Conn.",
+            "status": "State"
+        },
+        "Ariz": {
+            "state": "Arizona",
+            "postal": "AZ",
+            "AP": "Ariz.",
+            "old_postal": "Ariz.",
+            "status": "State"
+        }
     }
-}
 
 *POORLY WRITTEN*
 
